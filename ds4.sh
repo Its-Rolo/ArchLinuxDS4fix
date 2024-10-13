@@ -78,9 +78,6 @@ echo -n "Giving permission to /dev/uinput... "
 sudo chmod 666 /dev/uinput
 echo "Done"
 
-echo "Installing python3-autopilot..."
-sudo apt-get install python3-autopilot
-
 echo
 tput setaf 5
 echo "All done now. You should reboot for the changes to take effect."
