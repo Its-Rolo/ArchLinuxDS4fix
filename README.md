@@ -7,4 +7,4 @@ Download the ds4.sh script, cd into its location, and run it with:
 ```
 sudo bash ds4.sh
 ```
-Now reboot and your controller should function as normal.
+Now reboot your computer and your controller should function as normal.
